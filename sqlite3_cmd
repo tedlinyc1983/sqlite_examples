@@ -1,0 +1,10 @@
+sqlite3 ex1
+
+.databases
+
+.open db.sqlite3
+.open ex1
+
+.exit
+
+.help
