@@ -8,3 +8,7 @@ sqlite3 ex1
 .exit
 
 .help
+
+.tables
+select * from trips_post;
+
